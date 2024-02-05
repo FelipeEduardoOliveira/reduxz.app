@@ -1,0 +1,7 @@
+@reduxz.app_HostAddress = http://localhost:5019
+
+GET {{reduxz.app_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
+
